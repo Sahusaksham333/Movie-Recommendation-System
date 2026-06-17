@@ -1,4 +1,3 @@
-Here is a structurally refined, competitively articulated, and highly professional recreation of your project documentation. I have elevated the vocabulary to ensure precision, critically evaluated the systemic limitations of the algorithms, and formatted the document for maximum scannability and impact.
 
 ---
 
@@ -57,7 +56,6 @@ $$\text{Similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathb
 
 This repository features a fully functional Streamlit web application capable of deploying predictive movie recommendations based on user inputs.
 
-* **Live Application:** [Run on Server](https://movie-recommeder-system.herokuapp.com/)
 * **Core Dataset:** [TMDB 5000 Movies (Kaggle)](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 ### Application Demo
@@ -71,7 +69,7 @@ Follow these strict deployment steps to initialize the application locally.
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+git clone https://github.com/Sahusaksham333/Movie-Recommendation-System
 cd Movie-Recommender-System-Using-Machine-Learning
 
 ```
