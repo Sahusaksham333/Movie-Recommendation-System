@@ -58,7 +58,6 @@ This repository features a fully functional Streamlit web application capable of
 
 * **Core Dataset:** [TMDB 5000 Movies (Kaggle)](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
-### Application Demo
 
 ---
 
